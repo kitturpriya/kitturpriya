@@ -1,4 +1,4 @@
-<img src="head>
+<img src="https://github.com/kitturpriya/kitturpriya/blob/main/github-header-image.png">
 ### Hi there 👋
 
 <!--

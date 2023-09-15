@@ -48,11 +48,8 @@
 👉 Explore my repositories, dive into my projects, and let's embark on this coding adventure together!
 
 <div>
-<a href="https://github-readme-stats.vercel.app/api?username=CharalambosIoannou&theme=tokyonight">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=kitturpriya&count_private=true&show_icons=true&theme=holi" />
-</a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kitturpriya&hide=php&theme=holi" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kitturpriya&hide=php&theme=holi" />
 </a>
 </div>
 

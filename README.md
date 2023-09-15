@@ -12,7 +12,7 @@
 
 
 <p align="center">
- <a href="https://www.linkedin.com/in/priyanka-kittur-a15379206/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align: top; margin: 4px; filter: brightness(0) invert(1);"></a>
+ <a href="https://www.linkedin.com/in/priyanka-kittur-a15379206/" target="_blank" rel="noopener noreferrer"> <img src="https://content.linkedin.com/content/dam/brand/site/img/logo/in-box-variations.png" alt="Python" height="40" style="vertical-align: top; margin: 4px; filter: brightness(0) invert(1);"></a>
  <a href="mailto:priyankakittur557@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align: top; margin: 4px; filter: brightness(0) invert(1);"></a>
   <a href="https://www.hackerrank.com/priyankakittur51" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackster.svg" alt="Python" height="40" style="vertical-align: top; margin: 4px; filter: brightness(0) invert(1);"> </a>
 </p>
@@ -40,7 +40,7 @@
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" height="40" style="vertical-align:top; margin:4px">
- <img src="https://avatars.githubusercontent.com/u/375663?s=48&v=4" alt="uipath" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/80/UiPath_2019_Corporate_Logo.png/330px-UiPath_2019_Corporate_Logo.png" alt="uipath" height="40" style="vertical-align:top; margin:4px">
  
  
 </p>

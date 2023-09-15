@@ -13,7 +13,7 @@
 
 <p align="center">
  <a href="https://www.linkedin.com/in/priyanka-kittur-a15379206/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" alt="Python" height="40" style="vertical-align: top; margin: 4px; filter: brightness(0) invert(1);"></a>
- <a href="mailto:priyankakittur557@gmail.com"> <img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt="gmail" height="20" style="vertical-align: top; margin: 4px; filter: brightness(0) invert(1);"></a>
+ <a href="mailto:priyankakittur557@gmail.com"> <img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt="gmail" height="25" style="vertical-align: top; margin: 4px; filter: brightness(0) invert(1);"></a>
   <a href="https://www.hackerrank.com/priyankakittur51" target="_blank" rel="noopener noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" alt="Python" height="40" style="vertical-align: top; margin: 4px; filter: brightness(0) invert(1);"> </a>
 </p>
 

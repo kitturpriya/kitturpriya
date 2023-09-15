@@ -12,9 +12,9 @@
 
 
 <p align="center">
- <a href="https://www.linkedin.com/in/priyanka-kittur-a15379206/" target="_blank" rel="noopener noreferrer"> <img src="https://content.linkedin.com/content/dam/brand/site/img/logo/in-box-variations.png" alt="Python" height="40" style="vertical-align: top; margin: 4px; filter: brightness(0) invert(1);"></a>
- <a href="mailto:priyankakittur557@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align: top; margin: 4px; filter: brightness(0) invert(1);"></a>
-  <a href="https://www.hackerrank.com/priyankakittur51" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackster.svg" alt="Python" height="40" style="vertical-align: top; margin: 4px; filter: brightness(0) invert(1);"> </a>
+ <a href="https://www.linkedin.com/in/priyanka-kittur-a15379206/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" alt="Python" height="40" style="vertical-align: top; margin: 4px; filter: brightness(0) invert(1);"></a>
+ <a href="mailto:priyankakittur557@gmail.com"> <img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt="Python" height="40" style="vertical-align: top; margin: 4px; filter: brightness(0) invert(1);"></a>
+  <a href="https://www.hackerrank.com/priyankakittur51" target="_blank" rel="noopener noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" alt="Python" height="40" style="vertical-align: top; margin: 4px; filter: brightness(0) invert(1);"> </a>
 </p>
 
 <br />
@@ -48,6 +48,7 @@
 👉 Explore my repositories, dive into my projects, and let's embark on this coding adventure together!
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kitturpriya&show_icons=true&theme=holi)
+<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kitturpriya&theme=holi)
 <!--
 **kitturpriya/kitturpriya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

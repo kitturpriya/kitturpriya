@@ -8,7 +8,23 @@
 
 💼 Projects: You'll find a collection of projects that showcase my skills and passions. From Deep learning models to data-driven insights, I enjoy diving into a wide range of topics. I've experienced the thrill of independent projects and the power of collaborative teamwork.
 
-🔗 Connect: Let's connect and explore the possibilities! Whether you're interested in my projects, want to collaborate, or just have a tech-related chat, feel free to reach out. Let's learn, build, and innovate together.
+## 🔗 Connect:
+
+
+<p align="center">
+ <a href="https://www.linkedin.com/in/priyanka-kittur-a15379206/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:priyankakittur557@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+  <a href="https://www.hackerrank.com/priyankakittur51" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/hackerrank.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
+</p>
+
+<br />
+
+## 🧰 Languages and Tools:
+<p align="center">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+</p>
 
 👉 Explore my repositories, dive into my projects, and let's embark on this coding adventure together!
 

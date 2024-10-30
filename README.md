@@ -1,5 +1,5 @@
 <img src="https://github.com/kitturpriya/kitturpriya/blob/main/github-header-image.png">
-👋 Hello, there! I'm a dedicated and enthusiastic college student on a journey to explore the exciting world of technology and artificial intelligence. Currently pursuing a Bachelor of Technology in Computer Science with a specialization in Artificial Intelligence, I'm passionate about leveraging cutting-edge solutions to solve real-world problems.
+👋 Hello, there! I'm a dedicated and enthusiastic college student on a journey to explore the exciting world of technology and artificial intelligence. With a Bachelor of Technology in Artificial Intelligence, I'm passionate about leveraging cutting-edge solutions to solve real-world problems.
 
 
 🚀 My tech journey has been a thrilling ride, and I'm thrilled to share it with you on GitHub. Here's a glimpse of what you can expect:
